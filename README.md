@@ -1,4 +1,4 @@
-# Begineer-To-Advanced-Guide-in-the-world-of-data-science
+# Beginner To Advanced Guide in the world of data-science
 
 
 
